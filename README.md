@@ -5,7 +5,7 @@ poly-to-butt
 
 Chrome extension that replaces occurrences of 'poly' with 'butt'
 
-[Direct download of crx file](https://github.com/panicsteve/poly-to-butt/blob/master/PolyToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/michaelficarra/poly-to-butt/blob/master/PolyToButt.crx?raw=true)
 
 Installation
 ------------
